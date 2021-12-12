@@ -1,6 +1,4 @@
 #include <iostream>
-#include <string>
-#include "lib.h"
 
 using namespace std;
 
